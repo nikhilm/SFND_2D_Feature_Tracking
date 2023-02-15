@@ -13,6 +13,7 @@
 
 #include "dataStructures.h"
 #include "matching2D.hpp"
+#include "ring_buffer.h"
 
 using namespace std;
 
@@ -35,7 +36,7 @@ int main(int argc, const char *argv[])
 
     // misc
     int dataBufferSize = 2;       // no. of images which are held in memory (ring buffer) at the same time
-    vector<DataFrame> dataBuffer; // list of data frames which are held in memory at the same time
+    RingBuffer<DataFrame> dataBuffer(dataBufferSize); // list of data frames which are held in memory at the same time
     bool bVis = false;            // visualize results
 
     /* MAIN LOOP OVER ALL IMAGES */
