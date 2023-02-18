@@ -14,9 +14,14 @@
 template<typename T>
 class RingBuffer final {
 public:
-    explicit RingBuffer(size_t capacity) { buffer_.reserve(capacity); }
+    explicit RingBuffer(size_t capacity) {
+        /* Have to use resize instead of reserve. Otherwise, doing subscript access is UB until push_back has been
+         * called, and we do subscript access to implement our push_back. */
+        buffer_.resize(capacity);
+    }
 
     void push_back(T item) {
+        debug_print();
         buffer_[head_] = item;
         const auto cap = capacity();
         head_ = (head_ + 1) % cap;
@@ -56,9 +61,40 @@ public:
         return buffer_[index(i)];
     }
 
+    class Iterator {
+        using iterator_category = std::forward_iterator_tag;
+        using difference_type = std::ptrdiff_t;
+        using value_type = T;
+        using pointer = T *;
+        using reference = T &;
+    public:
+        Iterator(RingBuffer<T> *rb, size_t index) : rb_(rb), index_(index) {}
+
+        // TODO(nikhilm): I don't get why direct subscript calls aren't working.
+        reference operator*() const { return rb_->operator[](index_); }
+
+        pointer operator->() { return &rb_->operator[](index_); }
+
+        Iterator operator-(difference_type d) {
+            // Yes, totally unsafe without bounds checking.
+            index_ -= d;
+            return *this;
+        }
+
+    private:
+        RingBuffer<T> *rb_;
+        size_t index_;
+    };
+
+    Iterator end() {
+        debug_print();
+        return Iterator(this, size());
+    }
+
 private:
     size_t index(size_t i) const {
-        assert(i < size());
+        // Can't assert for end().
+        // assert(i < size());
         return (tail_ + i) % capacity();
     }
 

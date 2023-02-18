@@ -18,7 +18,17 @@ TEST(RingBufferTest, TestBelowCapacity) {
 }
 
 TEST(RingBufferTest, SupportsEndIterator) {
-    GTEST_FAIL();
+    constexpr size_t cap = 5;
+    RingBuffer<uint32_t> rb(cap);
+    for (int i = 0; i < 8; ++i) {
+        rb.push_back(i);
+        EXPECT_EQ(rb.size(), std::min(cap, static_cast<size_t>(i + 1)));
+        EXPECT_EQ(*(rb.end() - 1), i);
+        if (rb.size() >= 2) {
+            EXPECT_EQ(*(rb.end() - 2), i - 1);
+        }
+    }
+
 }
 
 TEST(RingBufferTest, CapacityIsNotExceeded) {
