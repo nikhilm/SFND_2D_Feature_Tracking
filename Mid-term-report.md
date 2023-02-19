@@ -23,3 +23,8 @@ Obviously I need to write a more accurate benchmark setup for this.
 ## MP.3 Region of interest
 
 This was really easy by using OpenCV's keypoint filtering abilities, masking the area of the rectangle.
+
+
+## MP.4 Descriptor Extraction
+
+TODO! FREAK AND BRIEF

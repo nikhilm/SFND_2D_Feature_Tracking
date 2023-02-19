@@ -14,6 +14,9 @@ void matchDescriptors(std::vector<cv::KeyPoint> &kPtsSource, std::vector<cv::Key
 
     if (matcherType.compare("MAT_BF") == 0) {
         int normType = cv::NORM_HAMMING;
+        if (descriptorType == "SIFT") {
+            normType = cv::NORM_L2;
+        }
         matcher = cv::BFMatcher::create(normType, crossCheck);
     } else if (matcherType.compare("MAT_FLANN") == 0) {
         // ...
@@ -40,9 +43,23 @@ void descKeypoints(vector<cv::KeyPoint> &keypoints, cv::Mat &img, cv::Mat &descr
         float patternScale = 1.0f; // apply this scale to the pattern used for sampling the neighbourhood of a keypoint.
 
         extractor = cv::BRISK::create(threshold, octaves, patternScale);
+    } else if (descriptorType == "BRIEF") {
+        // BRIEF requires opencv contrib and I don't want to rebuild all of opencv for that just yet.
+        // will do this on the Udacity workstation thing.
+        abort();
+    } else if (descriptorType == "ORB") {
+        extractor = cv::ORB::create();
+    } else if (descriptorType == "FREAK") {
+        // FREAK requires opencv contrib and I don't want to rebuild all of opencv for that just yet.
+        // will do this on the Udacity workstation thing.
+        abort();
+    } else if (descriptorType == "AKAZE") {
+        extractor = cv::AKAZE::create();
+    } else if (descriptorType == "SIFT") {
+        extractor = cv::SIFT::create();
     } else {
-
-        //...
+        std::cerr << "Unknown extractor type " << descriptorType << "\n";
+        abort();
     }
 
     // perform feature description
