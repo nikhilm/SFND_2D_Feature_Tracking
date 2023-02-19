@@ -163,9 +163,32 @@ void detKeypointsFast(vector<cv::KeyPoint> &keypoints, cv::Mat &img, bool bVis) 
     }
 }
 
+void detKeypointsBrisk(vector<cv::KeyPoint> &keypoints, cv::Mat &img, bool bVis) {
+    double t = (double)cv::getTickCount();
+    cv::Ptr<cv::BRISK> detector = cv::BRISK::create(90);
+    detector->detect(img, keypoints);
+    t = ((double)cv::getTickCount() - t) / cv::getTickFrequency();
+    cout << "BRISK detection with n= " << keypoints.size() << " keypoints in " << 1000 * t / 1.0 << " ms" << endl;
+
+    // visualize results
+    if (bVis) {
+        cv::Mat visImage = img.clone();
+        cv::drawKeypoints(img, keypoints, visImage, cv::Scalar::all(-1), cv::DrawMatchesFlags::DRAW_RICH_KEYPOINTS);
+        string windowName = "Harris Corner Detector Results";
+        cv::namedWindow(windowName, 6);
+        imshow(windowName, visImage);
+        cv::waitKey(0);
+    }
+}
+
 void detKeypointsModern(vector<cv::KeyPoint> &keypoints, cv::Mat &img, std::string detectorType, bool bVis) {
     if (detectorType == "FAST") {
         detKeypointsFast(keypoints, img, bVis);
+    } else if (detectorType == "BRISK") {
+        detKeypointsBrisk(keypoints, img, bVis);
+    } else {
+        std::cerr << "Unknown detector " << detectorType << "\n";
+        abort();
     }
 
 }

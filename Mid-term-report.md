@@ -7,3 +7,10 @@ I could've used vector::erase, but technically that is linear in the number of i
 the removed item and then move the others down. This would have worked fine for the case here of 8 or so images.
 For this purpose, implementing a proper ring was just an excuse to do the exercise as well as implement a custom
 iterator which I had never done before.
+
+
+## MP.2 Detector notes
+
+FAST is actually really fast! getting <1ms on my computer
+Harris and Shi-Tomasi are ~8-9ms.
+BRISK is even slower at 25-26ms with a threshold of 90, so not very brisk.
