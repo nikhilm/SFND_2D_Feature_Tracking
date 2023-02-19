@@ -26,5 +26,6 @@ This was really easy by using OpenCV's keypoint filtering abilities, masking the
 
 
 ## MP.4 Descriptor Extraction
+## MP.5 Addition of FLANN and kNN
+## MP.6 Addition of distance ratio test
 
-TODO! FREAK AND BRIEF
