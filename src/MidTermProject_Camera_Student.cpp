@@ -76,7 +76,7 @@ int main(int argc, const char *argv[])
         //// TASK MP.2 -> add the following keypoint detectors in file matching2D.cpp and enable string-based selection based on detectorType
         //// -> HARRIS, FAST, BRISK, ORB, AKAZE, SIFT
 
-        bVis = true;
+        bVis = false;
         if (detectorType.compare("SHITOMASI") == 0) {
             detKeypointsShiTomasi(keypoints, imgGray, bVis);
         } else if (detectorType.compare("HARRIS") == 0) {
@@ -95,9 +95,12 @@ int main(int argc, const char *argv[])
         // only keep keypoints on the preceding vehicle
         bool bFocusOnVehicle = true;
         cv::Rect vehicleRect(535, 180, 180, 150);
+
         if (bFocusOnVehicle)
         {
-            // ...
+            cv::Mat mask = cv::Mat::zeros(imgGray.size(), CV_8U);
+            mask(vehicleRect) = 1;
+            cv::KeyPointsFilter::runByPixelsMask(keypoints, mask);
         }
 
         //// EOF STUDENT ASSIGNMENT
@@ -162,7 +165,7 @@ int main(int argc, const char *argv[])
             cout << "#4 : MATCH KEYPOINT DESCRIPTORS done" << endl;
 
             // visualize matches between current and previous image
-            bVis = false; // TODO(nikhilm): Re-enable this once we are done visualizing keypoints.
+            bVis = true; // TODO(nikhilm): Re-enable this once we are done visualizing keypoints.
             if (bVis)
             {
                 cv::Mat matchImg = ((dataBuffer.end() - 1)->cameraImg).clone();

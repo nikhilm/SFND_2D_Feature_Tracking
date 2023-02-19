@@ -19,3 +19,7 @@ iterator which I had never done before.
 - SIFT is 48ms.
 
 Obviously I need to write a more accurate benchmark setup for this.
+
+## MP.3 Region of interest
+
+This was really easy by using OpenCV's keypoint filtering abilities, masking the area of the rectangle.
