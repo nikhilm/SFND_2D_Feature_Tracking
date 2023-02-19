@@ -217,6 +217,24 @@ void detKeypointsAKAZE(vector<cv::KeyPoint> &keypoints, cv::Mat &img, bool bVis)
     }
 }
 
+void detKeypointsSIFT(vector<cv::KeyPoint> &keypoints, cv::Mat &img, bool bVis) {
+    double t = (double) cv::getTickCount();
+    cv::Ptr<cv::SIFT> detector = cv::SIFT::create();
+    detector->detect(img, keypoints);
+    t = ((double) cv::getTickCount() - t) / cv::getTickFrequency();
+    cout << "SIFT detection with n= " << keypoints.size() << " keypoints in " << 1000 * t / 1.0 << " ms" << endl;
+
+    // visualize results
+    if (bVis) {
+        cv::Mat visImage = img.clone();
+        cv::drawKeypoints(img, keypoints, visImage, cv::Scalar::all(-1), cv::DrawMatchesFlags::DRAW_RICH_KEYPOINTS);
+        string windowName = "SIFT Corner Detector Results";
+        cv::namedWindow(windowName, 6);
+        imshow(windowName, visImage);
+        cv::waitKey(0);
+    }
+}
+
 void detKeypointsModern(vector<cv::KeyPoint> &keypoints, cv::Mat &img, std::string detectorType, bool bVis) {
     if (detectorType == "FAST") {
         detKeypointsFast(keypoints, img, bVis);
@@ -226,6 +244,8 @@ void detKeypointsModern(vector<cv::KeyPoint> &keypoints, cv::Mat &img, std::stri
         detKeypointsORB(keypoints, img, bVis);
     } else if (detectorType == "AKAZE") {
         detKeypointsAKAZE(keypoints, img, bVis);
+    } else if (detectorType == "SIFT") {
+        detKeypointsSIFT(keypoints, img, bVis);
     } else {
         std::cerr << "Unknown detector " << detectorType << "\n";
         abort();

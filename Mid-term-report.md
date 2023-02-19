@@ -11,8 +11,11 @@ iterator which I had never done before.
 
 ## MP.2 Detector notes
 
-FAST is actually really fast! getting <1ms on my computer
-Harris and Shi-Tomasi are ~8-9ms.
-BRISK is even slower at 25-26ms with a threshold of 90, so not very brisk.
-ORB takes 4ms with default parameters.
-AKAZE is 43ms with default parameters.
+- FAST is actually really fast! getting <1ms on my computer
+- Harris and Shi-Tomasi are ~8-9ms.
+- BRISK is even slower at 25-26ms with a threshold of 90, so not very brisk.
+- ORB takes 4ms with default parameters.
+- AKAZE is 43ms with default parameters.
+- SIFT is 48ms.
+
+Obviously I need to write a more accurate benchmark setup for this.
