@@ -174,7 +174,25 @@ void detKeypointsBrisk(vector<cv::KeyPoint> &keypoints, cv::Mat &img, bool bVis)
     if (bVis) {
         cv::Mat visImage = img.clone();
         cv::drawKeypoints(img, keypoints, visImage, cv::Scalar::all(-1), cv::DrawMatchesFlags::DRAW_RICH_KEYPOINTS);
-        string windowName = "Harris Corner Detector Results";
+        string windowName = "BRISK Corner Detector Results";
+        cv::namedWindow(windowName, 6);
+        imshow(windowName, visImage);
+        cv::waitKey(0);
+    }
+}
+
+void detKeypointsORB(vector<cv::KeyPoint> &keypoints, cv::Mat &img, bool bVis) {
+    double t = (double)cv::getTickCount();
+    cv::Ptr<cv::ORB> detector = cv::ORB::create();
+    detector->detect(img, keypoints);
+    t = ((double)cv::getTickCount() - t) / cv::getTickFrequency();
+    cout << "ORB detection with n= " << keypoints.size() << " keypoints in " << 1000 * t / 1.0 << " ms" << endl;
+
+    // visualize results
+    if (bVis) {
+        cv::Mat visImage = img.clone();
+        cv::drawKeypoints(img, keypoints, visImage, cv::Scalar::all(-1), cv::DrawMatchesFlags::DRAW_RICH_KEYPOINTS);
+        string windowName = "ORB Corner Detector Results";
         cv::namedWindow(windowName, 6);
         imshow(windowName, visImage);
         cv::waitKey(0);
@@ -186,6 +204,8 @@ void detKeypointsModern(vector<cv::KeyPoint> &keypoints, cv::Mat &img, std::stri
         detKeypointsFast(keypoints, img, bVis);
     } else if (detectorType == "BRISK") {
         detKeypointsBrisk(keypoints, img, bVis);
+    } else if (detectorType == "ORB") {
+        detKeypointsORB(keypoints, img, bVis);
     } else {
         std::cerr << "Unknown detector " << detectorType << "\n";
         abort();
