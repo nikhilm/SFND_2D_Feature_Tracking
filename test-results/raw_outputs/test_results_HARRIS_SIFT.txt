@@ -1,0 +1,87 @@
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=115 keypoints in 8.23372 ms
+After filtering to vehicle mask: HARRIS 17
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 8.67016 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=98 keypoints in 5.47937 ms
+After filtering to vehicle mask: HARRIS 14
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 9.37766 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=14 matches in 0.057759 ms
+discard count 3
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=113 keypoints in 7.13064 ms
+After filtering to vehicle mask: HARRIS 18
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 9.46929 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=11 matches in 0.041556 ms
+discard count 3
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=121 keypoints in 7.14712 ms
+After filtering to vehicle mask: HARRIS 21
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 9.39295 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=16 matches in 0.037155 ms
+discard count 2
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=160 keypoints in 7.65829 ms
+After filtering to vehicle mask: HARRIS 26
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 9.63726 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=19 matches in 0.044629 ms
+discard count 2
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=383 keypoints in 13.2592 ms
+After filtering to vehicle mask: HARRIS 43
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 9.19984 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=22 matches in 0.049168 ms
+discard count 4
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=85 keypoints in 7.04047 ms
+After filtering to vehicle mask: HARRIS 18
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 9.60646 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=22 matches in 0.062928 ms
+discard count 21
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=210 keypoints in 8.22527 ms
+After filtering to vehicle mask: HARRIS 31
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 10.1565 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=13 matches in 0.043511 ms
+discard count 5
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=171 keypoints in 7.67073 ms
+After filtering to vehicle mask: HARRIS 26
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 10.0588 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=24 matches in 0.047213 ms
+discard count 7
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Harris detection with n=281 keypoints in 9.41167 ms
+After filtering to vehicle mask: HARRIS 34
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 9.4248 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=22 matches in 0.051822 ms
+discard count 4
+#4 : MATCH KEYPOINT DESCRIPTORS done

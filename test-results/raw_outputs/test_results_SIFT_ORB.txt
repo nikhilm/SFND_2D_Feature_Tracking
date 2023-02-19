@@ -1,0 +1,7 @@
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detection with n= 1438 keypoints in 57.0751 ms
+After filtering to vehicle mask: SIFT 138
+#2 : DETECT KEYPOINTS done
+terminate called after throwing an instance of 'cv::Exception'
+  what():  OpenCV(4.7.0) /home/nikhil/Downloads/opencv-4.7.0/modules/core/src/alloc.cpp:73: error: (-4:Insufficient memory) Failed to allocate 70166064384 bytes in function 'OutOfMemoryError'
+

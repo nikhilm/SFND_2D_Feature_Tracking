@@ -1,0 +1,87 @@
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n= 760 keypoints in 26.435 ms
+After filtering to vehicle mask: BRISK 87
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 17.9944 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n= 748 keypoints in 25.2593 ms
+After filtering to vehicle mask: BRISK 88
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 17.633 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=59 matches in 0.150509 ms
+discard count 21
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n= 753 keypoints in 24.9116 ms
+After filtering to vehicle mask: BRISK 81
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 16.0768 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=61 matches in 0.108883 ms
+discard count 22
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n= 733 keypoints in 25.0871 ms
+After filtering to vehicle mask: BRISK 92
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 15.9313 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=52 matches in 0.096522 ms
+discard count 23
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n= 723 keypoints in 24.7617 ms
+After filtering to vehicle mask: BRISK 93
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 15.9499 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=69 matches in 0.144223 ms
+discard count 20
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n= 687 keypoints in 23.9206 ms
+After filtering to vehicle mask: BRISK 94
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 15.6823 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=55 matches in 0.137379 ms
+discard count 33
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n= 694 keypoints in 24.1408 ms
+After filtering to vehicle mask: BRISK 95
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 15.695 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=63 matches in 0.146318 ms
+discard count 26
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n= 717 keypoints in 24.9123 ms
+After filtering to vehicle mask: BRISK 96
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 15.65 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=61 matches in 0.138426 ms
+discard count 31
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n= 702 keypoints in 24.7646 ms
+After filtering to vehicle mask: BRISK 99
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 15.7026 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=71 matches in 0.168249 ms
+discard count 23
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detection with n= 718 keypoints in 24.5878 ms
+After filtering to vehicle mask: BRISK 90
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 15.6798 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=75 matches in 0.162801 ms
+discard count 20
+#4 : MATCH KEYPOINT DESCRIPTORS done

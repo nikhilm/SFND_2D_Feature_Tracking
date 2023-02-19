@@ -1,0 +1,87 @@
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1370 keypoints in 9.28375 ms
+After filtering to vehicle mask: SHITOMASI 125
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.896987 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1301 keypoints in 8.55201 ms
+After filtering to vehicle mask: SHITOMASI 118
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.920036 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=104 matches in 0.184035 ms
+discard count 21
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1361 keypoints in 7.184 ms
+After filtering to vehicle mask: SHITOMASI 123
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.620271 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=103 matches in 0.135913 ms
+discard count 15
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1358 keypoints in 7.06255 ms
+After filtering to vehicle mask: SHITOMASI 120
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.690882 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=100 matches in 0.189343 ms
+discard count 23
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1333 keypoints in 7.42705 ms
+After filtering to vehicle mask: SHITOMASI 120
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.690672 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=102 matches in 0.199191 ms
+discard count 18
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1284 keypoints in 6.84443 ms
+After filtering to vehicle mask: SHITOMASI 113
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.596805 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=103 matches in 0.160079 ms
+discard count 17
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1322 keypoints in 7.25105 ms
+After filtering to vehicle mask: SHITOMASI 114
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.691162 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=98 matches in 0.177749 ms
+discard count 15
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1366 keypoints in 7.35414 ms
+After filtering to vehicle mask: SHITOMASI 123
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.716026 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=98 matches in 0.124879 ms
+discard count 16
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1389 keypoints in 7.18631 ms
+After filtering to vehicle mask: SHITOMASI 111
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.591147 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=102 matches in 0.182359 ms
+discard count 21
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1339 keypoints in 7.15725 ms
+After filtering to vehicle mask: SHITOMASI 112
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.672723 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=97 matches in 0.106021 ms
+discard count 14
+#4 : MATCH KEYPOINT DESCRIPTORS done

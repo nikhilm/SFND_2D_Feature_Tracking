@@ -1,0 +1,87 @@
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1370 keypoints in 7.69406 ms
+After filtering to vehicle mask: SHITOMASI 125
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 8.78507 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1301 keypoints in 5.57686 ms
+After filtering to vehicle mask: SHITOMASI 118
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 9.63813 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=112 matches in 0.154002 ms
+discard count 13
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1361 keypoints in 7.47476 ms
+After filtering to vehicle mask: SHITOMASI 123
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 9.39689 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=109 matches in 0.127882 ms
+discard count 9
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1358 keypoints in 7.42335 ms
+After filtering to vehicle mask: SHITOMASI 120
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 9.45263 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=104 matches in 0.129837 ms
+discard count 19
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1333 keypoints in 7.44207 ms
+After filtering to vehicle mask: SHITOMASI 120
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 9.38453 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=103 matches in 0.12453 ms
+discard count 17
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1284 keypoints in 6.78939 ms
+After filtering to vehicle mask: SHITOMASI 113
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 9.24275 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=99 matches in 0.124041 ms
+discard count 21
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1322 keypoints in 6.86196 ms
+After filtering to vehicle mask: SHITOMASI 114
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 9.49935 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=101 matches in 0.125228 ms
+discard count 12
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1366 keypoints in 7.22507 ms
+After filtering to vehicle mask: SHITOMASI 123
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 9.51737 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=96 matches in 0.123692 ms
+discard count 18
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1389 keypoints in 6.98991 ms
+After filtering to vehicle mask: SHITOMASI 111
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 9.31238 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=106 matches in 0.117126 ms
+discard count 17
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1339 keypoints in 6.87376 ms
+After filtering to vehicle mask: SHITOMASI 112
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 9.33466 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=97 matches in 0.118803 ms
+discard count 14
+#4 : MATCH KEYPOINT DESCRIPTORS done

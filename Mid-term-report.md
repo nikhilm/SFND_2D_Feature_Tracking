@@ -29,3 +29,14 @@ This was really easy by using OpenCV's keypoint filtering abilities, masking the
 ## MP.5 Addition of FLANN and kNN
 ## MP.6 Addition of distance ratio test
 
+## MP.7 Number of keypoints within the vehicle bounding box for each detector.
+
+| Detector  |Median|p90|Image 1|Image 2|Image 3|Image 4|Image 5|Image 6|Image 7|Image 8|Image 9|Image 10|
+|-----------|------|---|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| SHITOMASI |119|123.2|125|118|123|120|120|113|114|123|111|112|
+| AKAZE     |165|177.2|166|157|161|155|163|164|173|175|177|179|
+| BRISK     |92.5|96.3|87|88|81|92|93|94|95|96|99|90|
+| FAST      |62.5|66.3|63|57|62|60|59|65|58|63|69|66|
+| HARRIS    |23.5|34.9|17|14|18|21|26|43|18|31|26|34|
+| ORB       |119|129.1|92|102|106|113|109|125|130|129|127|128|
+| SIFT      |137|149.1|138|132|124|137|134|140|137|148|159|137|

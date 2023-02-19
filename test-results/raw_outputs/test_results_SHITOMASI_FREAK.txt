@@ -1,0 +1,87 @@
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1370 keypoints in 7.62352 ms
+After filtering to vehicle mask: SHITOMASI 125
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 17.7144 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1301 keypoints in 6.11241 ms
+After filtering to vehicle mask: SHITOMASI 118
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 15.7899 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=90 matches in 0.194721 ms
+discard count 35
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1361 keypoints in 4.70438 ms
+After filtering to vehicle mask: SHITOMASI 123
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 16.2486 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=88 matches in 0.148067 ms
+discard count 30
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1358 keypoints in 4.53006 ms
+After filtering to vehicle mask: SHITOMASI 120
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 16.2924 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=87 matches in 0.127673 ms
+discard count 36
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1333 keypoints in 4.45484 ms
+After filtering to vehicle mask: SHITOMASI 120
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 16.1625 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=89 matches in 0.307237 ms
+discard count 31
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1284 keypoints in 5.12798 ms
+After filtering to vehicle mask: SHITOMASI 113
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 19.5623 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=83 matches in 0.134168 ms
+discard count 37
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1322 keypoints in 5.13831 ms
+After filtering to vehicle mask: SHITOMASI 114
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 18.824 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=78 matches in 0.124459 ms
+discard count 35
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1366 keypoints in 4.58432 ms
+After filtering to vehicle mask: SHITOMASI 123
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 18.5166 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=81 matches in 0.123062 ms
+discard count 33
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1389 keypoints in 4.56218 ms
+After filtering to vehicle mask: SHITOMASI 111
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 16.6259 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=86 matches in 0.127253 ms
+discard count 37
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1339 keypoints in 4.36383 ms
+After filtering to vehicle mask: SHITOMASI 112
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 15.8838 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=84 matches in 0.117195 ms
+discard count 27
+#4 : MATCH KEYPOINT DESCRIPTORS done

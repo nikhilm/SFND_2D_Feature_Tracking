@@ -1,0 +1,87 @@
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n= 1351 keypoints in 40.7893 ms
+After filtering to vehicle mask: AKAZE 166
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.1924 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n= 1327 keypoints in 37.8044 ms
+After filtering to vehicle mask: AKAZE 157
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.49084 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=130 matches in 0.142687 ms
+discard count 36
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n= 1311 keypoints in 35.2753 ms
+After filtering to vehicle mask: AKAZE 161
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.57752 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=129 matches in 0.145061 ms
+discard count 28
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n= 1351 keypoints in 39.1442 ms
+After filtering to vehicle mask: AKAZE 155
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.51738 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=128 matches in 0.155887 ms
+discard count 33
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n= 1360 keypoints in 37.2848 ms
+After filtering to vehicle mask: AKAZE 163
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.70232 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=115 matches in 0.337825 ms
+discard count 40
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n= 1347 keypoints in 37.051 ms
+After filtering to vehicle mask: AKAZE 164
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.59169 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=132 matches in 0.159239 ms
+discard count 31
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n= 1363 keypoints in 37.6593 ms
+After filtering to vehicle mask: AKAZE 173
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.73606 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=132 matches in 0.176001 ms
+discard count 32
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n= 1331 keypoints in 36.5266 ms
+After filtering to vehicle mask: AKAZE 175
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.97645 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=137 matches in 0.173767 ms
+discard count 36
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n= 1358 keypoints in 35.5894 ms
+After filtering to vehicle mask: AKAZE 177
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.69331 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=137 matches in 0.175792 ms
+discard count 38
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n= 1331 keypoints in 35.5711 ms
+After filtering to vehicle mask: AKAZE 179
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.75268 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=146 matches in 0.171042 ms
+discard count 31
+#4 : MATCH KEYPOINT DESCRIPTORS done

@@ -1,0 +1,87 @@
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n= 569 keypoints in 0.275317 ms
+After filtering to vehicle mask: FAST 63
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 17.8303 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n= 561 keypoints in 0.270917 ms
+After filtering to vehicle mask: FAST 57
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 17.5104 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=38 matches in 0.110908 ms
+discard count 25
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n= 572 keypoints in 0.250802 ms
+After filtering to vehicle mask: FAST 62
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 15.9927 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=43 matches in 0.090166 ms
+discard count 14
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n= 559 keypoints in 0.2559 ms
+After filtering to vehicle mask: FAST 60
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 15.6284 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=42 matches in 0.084788 ms
+discard count 20
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n= 568 keypoints in 0.264421 ms
+After filtering to vehicle mask: FAST 59
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 15.7161 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=41 matches in 0.077594 ms
+discard count 19
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n= 566 keypoints in 0.253386 ms
+After filtering to vehicle mask: FAST 65
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 16.0015 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=42 matches in 0.08388 ms
+discard count 17
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n= 555 keypoints in 0.254224 ms
+After filtering to vehicle mask: FAST 58
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 15.6703 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=47 matches in 0.081365 ms
+discard count 18
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n= 535 keypoints in 0.252618 ms
+After filtering to vehicle mask: FAST 63
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 15.6805 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=42 matches in 0.088629 ms
+discard count 16
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n= 564 keypoints in 0.26896 ms
+After filtering to vehicle mask: FAST 69
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 15.687 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=44 matches in 0.080877 ms
+discard count 19
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detection with n= 568 keypoints in 0.285234 ms
+After filtering to vehicle mask: FAST 66
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 15.6305 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=52 matches in 0.111048 ms
+discard count 17
+#4 : MATCH KEYPOINT DESCRIPTORS done

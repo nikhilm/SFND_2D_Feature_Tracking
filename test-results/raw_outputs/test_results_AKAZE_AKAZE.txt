@@ -1,0 +1,87 @@
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n= 1351 keypoints in 37.5469 ms
+After filtering to vehicle mask: AKAZE 166
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 24.7496 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n= 1327 keypoints in 33.448 ms
+After filtering to vehicle mask: AKAZE 157
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 29.8043 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=138 matches in 0.191506 ms
+discard count 28
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n= 1311 keypoints in 34.5164 ms
+After filtering to vehicle mask: AKAZE 161
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 27.3095 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=138 matches in 0.162731 ms
+discard count 19
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n= 1351 keypoints in 33.7287 ms
+After filtering to vehicle mask: AKAZE 155
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 29.1972 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=133 matches in 0.165246 ms
+discard count 28
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n= 1360 keypoints in 34.3821 ms
+After filtering to vehicle mask: AKAZE 163
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 30.334 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=127 matches in 0.155887 ms
+discard count 28
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n= 1347 keypoints in 34.4547 ms
+After filtering to vehicle mask: AKAZE 164
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 28.7213 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=129 matches in 0.174744 ms
+discard count 34
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n= 1363 keypoints in 35.258 ms
+After filtering to vehicle mask: AKAZE 173
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 29.9269 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=146 matches in 0.221888 ms
+discard count 18
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n= 1331 keypoints in 34.6017 ms
+After filtering to vehicle mask: AKAZE 175
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 28.5526 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=147 matches in 0.196605 ms
+discard count 26
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n= 1358 keypoints in 36.5752 ms
+After filtering to vehicle mask: AKAZE 177
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 30.8785 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=151 matches in 0.188783 ms
+discard count 24
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detection with n= 1331 keypoints in 35.8704 ms
+After filtering to vehicle mask: AKAZE 179
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 28.9592 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=150 matches in 0.329234 ms
+discard count 27
+#4 : MATCH KEYPOINT DESCRIPTORS done

@@ -1,0 +1,87 @@
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n= 500 keypoints in 4.99669 ms
+After filtering to vehicle mask: ORB 92
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.9562 ms
+#3 : EXTRACT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n= 500 keypoints in 4.32034 ms
+After filtering to vehicle mask: ORB 102
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.70218 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=65 matches in 0.148344 ms
+discard count 27
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n= 500 keypoints in 4.25462 ms
+After filtering to vehicle mask: ORB 106
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.73235 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=69 matches in 0.101969 ms
+discard count 33
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n= 500 keypoints in 4.16425 ms
+After filtering to vehicle mask: ORB 113
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.61774 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=71 matches in 0.096801 ms
+discard count 35
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n= 500 keypoints in 4.04091 ms
+After filtering to vehicle mask: ORB 109
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.69806 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=85 matches in 0.102528 ms
+discard count 28
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n= 500 keypoints in 4.11375 ms
+After filtering to vehicle mask: ORB 125
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.7744 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=91 matches in 0.115589 ms
+discard count 18
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n= 500 keypoints in 4.0495 ms
+After filtering to vehicle mask: ORB 130
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.70511 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=101 matches in 0.177747 ms
+discard count 24
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n= 500 keypoints in 4.01521 ms
+After filtering to vehicle mask: ORB 129
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.76979 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=95 matches in 0.121106 ms
+discard count 35
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n= 500 keypoints in 4.32593 ms
+After filtering to vehicle mask: ORB 127
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.73752 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=93 matches in 0.125436 ms
+discard count 36
+#4 : MATCH KEYPOINT DESCRIPTORS done
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detection with n= 500 keypoints in 4.11948 ms
+After filtering to vehicle mask: ORB 128
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.83628 ms
+#3 : EXTRACT DESCRIPTORS done
+ (kNN) with n=91 matches in 0.11901 ms
+discard count 36
+#4 : MATCH KEYPOINT DESCRIPTORS done
