@@ -145,3 +145,27 @@ void detKeypointsHarris(vector<cv::KeyPoint> &keypoints, cv::Mat &img, bool bVis
         cv::waitKey(0);
     }
 }
+
+void detKeypointsFast(vector<cv::KeyPoint> &keypoints, cv::Mat &img, bool bVis) {
+    double t = (double)cv::getTickCount();
+    cv::FAST(img, keypoints, 75, true, cv::FastFeatureDetector::TYPE_9_16);
+    t = ((double)cv::getTickCount() - t) / cv::getTickFrequency();
+    cout << "FAST detection with n= " << keypoints.size() << " keypoints in " << 1000 * t / 1.0 << " ms" << endl;
+
+    // visualize results
+    if (bVis) {
+        cv::Mat visImage = img.clone();
+        cv::drawKeypoints(img, keypoints, visImage, cv::Scalar::all(-1), cv::DrawMatchesFlags::DRAW_RICH_KEYPOINTS);
+        string windowName = "Harris Corner Detector Results";
+        cv::namedWindow(windowName, 6);
+        imshow(windowName, visImage);
+        cv::waitKey(0);
+    }
+}
+
+void detKeypointsModern(vector<cv::KeyPoint> &keypoints, cv::Mat &img, std::string detectorType, bool bVis) {
+    if (detectorType == "FAST") {
+        detKeypointsFast(keypoints, img, bVis);
+    }
+
+}
