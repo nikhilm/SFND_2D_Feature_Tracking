@@ -38,7 +38,32 @@ void matchDescriptors(std::vector<cv::KeyPoint> &kPtsSource, std::vector<cv::Key
 
         matcher->match(descSource, descRef, matches); // Finds the best match for each descriptor in desc1
     } else if (selectorType.compare("SEL_KNN") == 0) { // k nearest neighbors (k=2)
-
+        const double minDescDistRatio = 0.8;
+        std::vector<std::vector<cv::DMatch>> kMatches;
+        double t = (double) cv::getTickCount();
+        matcher->knnMatch(descSource, descRef, kMatches, /* k= */ 2);
+        for (auto it = kMatches.cbegin(); it != kMatches.cend(); it++) {
+            const auto bestMatches = *it;
+            if (bestMatches.size() < 2) {
+                matches.push_back(bestMatches[0]);
+            } else {
+                // i believe the .distance field is the distance between the feature
+                // in the source image and the matched feature in the reference image.
+                // this is the distance in the descriptor vector.
+                // the smaller the distance, the more similar the descriptors are.
+                // what kNN is giving us is, hey here are the 2 descriptors
+                // in the reference image that were 1st and 2nd in "minimum SSD value".
+                // if the best match is far better than the second match
+                // then that is good, otherwise there may be ambiguity.
+                // so that is what this tests.
+                if (bestMatches[0].distance < minDescDistRatio * bestMatches[1].distance) {
+                    matches.push_back(bestMatches[0]);
+                }
+            }
+        }
+        t = ((double)cv::getTickCount() - t) / cv::getTickFrequency();
+        cout << " (kNN) with n=" << matches.size() << " matches in " << 1000 * t / 1.0 << " ms" << endl;
+        cout << "discard count " << (kMatches.size() - matches.size()) << "\n";
         // ...
     }
 }
