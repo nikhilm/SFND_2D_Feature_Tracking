@@ -17,7 +17,10 @@ set(CMAKE_CXX_FLAGS, "${CXX_FLAGS}")
 
 project(camera_fusion)
 
-find_package(OpenCV 4.1 REQUIRED)
+find_package(OpenCV 4 REQUIRED
+        PATHS "/home/nikhil/opencv_compiled/lib/cmake/opencv4/"
+        NO_DEFAULT_PATH
+        )
 
 include_directories(${OpenCV_INCLUDE_DIRS})
 link_directories(${OpenCV_LIBRARY_DIRS})

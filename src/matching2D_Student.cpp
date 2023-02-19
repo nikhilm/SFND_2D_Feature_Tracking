@@ -1,4 +1,5 @@
 #include <numeric>
+#include <opencv2/xfeatures2d.hpp>
 #include "matching2D.hpp"
 
 using namespace std;
