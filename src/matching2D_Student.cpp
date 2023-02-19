@@ -81,15 +81,11 @@ void descKeypoints(vector<cv::KeyPoint> &keypoints, cv::Mat &img, cv::Mat &descr
 
         extractor = cv::BRISK::create(threshold, octaves, patternScale);
     } else if (descriptorType == "BRIEF") {
-        // BRIEF requires opencv contrib and I don't want to rebuild all of opencv for that just yet.
-        // will do this on the Udacity workstation thing.
-        abort();
+        extractor = cv::xfeatures2d::BriefDescriptorExtractor::create();
     } else if (descriptorType == "ORB") {
         extractor = cv::ORB::create();
     } else if (descriptorType == "FREAK") {
-        // FREAK requires opencv contrib and I don't want to rebuild all of opencv for that just yet.
-        // will do this on the Udacity workstation thing.
-        abort();
+        extractor = cv::xfeatures2d::FREAK::create();
     } else if (descriptorType == "AKAZE") {
         extractor = cv::AKAZE::create();
     } else if (descriptorType == "SIFT") {
