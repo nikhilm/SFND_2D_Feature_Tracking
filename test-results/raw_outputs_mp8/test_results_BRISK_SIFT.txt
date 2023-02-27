@@ -1,0 +1,9 @@
+Detector BRISK Descriptor SIFT Source 1 Reference 2  (kNN) with n=515 matches in 1.89725 ms
+Detector BRISK Descriptor SIFT Source 2 Reference 3  (kNN) with n=483 matches in 2.18766 ms
+Detector BRISK Descriptor SIFT Source 3 Reference 4  (kNN) with n=500 matches in 2.90563 ms
+Detector BRISK Descriptor SIFT Source 4 Reference 5  (kNN) with n=504 matches in 2.90521 ms
+Detector BRISK Descriptor SIFT Source 5 Reference 6  (kNN) with n=482 matches in 2.37204 ms
+Detector BRISK Descriptor SIFT Source 6 Reference 7  (kNN) with n=448 matches in 2.60615 ms
+Detector BRISK Descriptor SIFT Source 7 Reference 8  (kNN) with n=468 matches in 2.76385 ms
+Detector BRISK Descriptor SIFT Source 8 Reference 9  (kNN) with n=495 matches in 2.79451 ms
+Detector BRISK Descriptor SIFT Source 9 Reference 10  (kNN) with n=449 matches in 2.80268 ms

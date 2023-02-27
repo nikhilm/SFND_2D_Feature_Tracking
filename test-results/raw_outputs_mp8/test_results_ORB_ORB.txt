@@ -1,0 +1,9 @@
+Detector ORB Descriptor ORB Source 1 Reference 2  (kNN) with n=351 matches in 0.767422 ms
+Detector ORB Descriptor ORB Source 2 Reference 3  (kNN) with n=335 matches in 0.896141 ms
+Detector ORB Descriptor ORB Source 3 Reference 4  (kNN) with n=340 matches in 0.705892 ms
+Detector ORB Descriptor ORB Source 4 Reference 5  (kNN) with n=328 matches in 0.913461 ms
+Detector ORB Descriptor ORB Source 5 Reference 6  (kNN) with n=329 matches in 0.971151 ms
+Detector ORB Descriptor ORB Source 6 Reference 7  (kNN) with n=342 matches in 0.887969 ms
+Detector ORB Descriptor ORB Source 7 Reference 8  (kNN) with n=341 matches in 1.02891 ms
+Detector ORB Descriptor ORB Source 8 Reference 9  (kNN) with n=336 matches in 1.09652 ms
+Detector ORB Descriptor ORB Source 9 Reference 10  (kNN) with n=319 matches in 1.08339 ms

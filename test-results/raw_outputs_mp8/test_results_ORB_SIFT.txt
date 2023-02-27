@@ -1,0 +1,9 @@
+Detector ORB Descriptor SIFT Source 1 Reference 2  (kNN) with n=377 matches in 0.907665 ms
+Detector ORB Descriptor SIFT Source 2 Reference 3  (kNN) with n=370 matches in 0.857309 ms
+Detector ORB Descriptor SIFT Source 3 Reference 4  (kNN) with n=374 matches in 0.863525 ms
+Detector ORB Descriptor SIFT Source 4 Reference 5  (kNN) with n=362 matches in 0.854375 ms
+Detector ORB Descriptor SIFT Source 5 Reference 6  (kNN) with n=364 matches in 0.84355 ms
+Detector ORB Descriptor SIFT Source 6 Reference 7  (kNN) with n=371 matches in 0.847041 ms
+Detector ORB Descriptor SIFT Source 7 Reference 8  (kNN) with n=379 matches in 0.859055 ms
+Detector ORB Descriptor SIFT Source 8 Reference 9  (kNN) with n=375 matches in 1.13262 ms
+Detector ORB Descriptor SIFT Source 9 Reference 10  (kNN) with n=369 matches in 0.860871 ms

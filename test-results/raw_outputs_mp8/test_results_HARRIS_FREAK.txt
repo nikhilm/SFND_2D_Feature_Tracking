@@ -1,0 +1,9 @@
+Detector HARRIS Descriptor FREAK Source 1 Reference 2  (kNN) with n=61 matches in 0.154002 ms
+Detector HARRIS Descriptor FREAK Source 2 Reference 3  (kNN) with n=55 matches in 0.163569 ms
+Detector HARRIS Descriptor FREAK Source 3 Reference 4  (kNN) with n=64 matches in 0.203799 ms
+Detector HARRIS Descriptor FREAK Source 4 Reference 5  (kNN) with n=77 matches in 0.256948 ms
+Detector HARRIS Descriptor FREAK Source 5 Reference 6  (kNN) with n=106 matches in 0.465496 ms
+Detector HARRIS Descriptor FREAK Source 6 Reference 7  (kNN) with n=93 matches in 0.394676 ms
+Detector HARRIS Descriptor FREAK Source 7 Reference 8  (kNN) with n=56 matches in 0.237113 ms
+Detector HARRIS Descriptor FREAK Source 8 Reference 9  (kNN) with n=120 matches in 0.355913 ms
+Detector HARRIS Descriptor FREAK Source 9 Reference 10  (kNN) with n=116 matches in 0.371768 ms

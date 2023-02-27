@@ -1,0 +1,9 @@
+Detector AKAZE Descriptor FREAK Source 1 Reference 2  (kNN) with n=839 matches in 4.75169 ms
+Detector AKAZE Descriptor FREAK Source 2 Reference 3  (kNN) with n=855 matches in 4.72061 ms
+Detector AKAZE Descriptor FREAK Source 3 Reference 4  (kNN) with n=848 matches in 5.51778 ms
+Detector AKAZE Descriptor FREAK Source 4 Reference 5  (kNN) with n=846 matches in 6.15272 ms
+Detector AKAZE Descriptor FREAK Source 5 Reference 6  (kNN) with n=872 matches in 6.76265 ms
+Detector AKAZE Descriptor FREAK Source 6 Reference 7  (kNN) with n=870 matches in 4.75218 ms
+Detector AKAZE Descriptor FREAK Source 7 Reference 8  (kNN) with n=876 matches in 4.65412 ms
+Detector AKAZE Descriptor FREAK Source 8 Reference 9  (kNN) with n=934 matches in 5.08588 ms
+Detector AKAZE Descriptor FREAK Source 9 Reference 10  (kNN) with n=904 matches in 5.75301 ms

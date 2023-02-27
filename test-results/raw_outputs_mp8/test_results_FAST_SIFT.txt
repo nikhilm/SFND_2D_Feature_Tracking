@@ -1,0 +1,9 @@
+Detector FAST Descriptor SIFT Source 1 Reference 2  (kNN) with n=486 matches in 1.08653 ms
+Detector FAST Descriptor SIFT Source 2 Reference 3  (kNN) with n=460 matches in 1.11419 ms
+Detector FAST Descriptor SIFT Source 3 Reference 4  (kNN) with n=490 matches in 1.04071 ms
+Detector FAST Descriptor SIFT Source 4 Reference 5  (kNN) with n=484 matches in 1.09687 ms
+Detector FAST Descriptor SIFT Source 5 Reference 6  (kNN) with n=471 matches in 1.10162 ms
+Detector FAST Descriptor SIFT Source 6 Reference 7  (kNN) with n=487 matches in 1.11328 ms
+Detector FAST Descriptor SIFT Source 7 Reference 8  (kNN) with n=461 matches in 1.17956 ms
+Detector FAST Descriptor SIFT Source 8 Reference 9  (kNN) with n=449 matches in 1.08408 ms
+Detector FAST Descriptor SIFT Source 9 Reference 10  (kNN) with n=466 matches in 1.24689 ms

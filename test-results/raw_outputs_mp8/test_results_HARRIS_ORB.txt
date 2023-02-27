@@ -1,0 +1,9 @@
+Detector HARRIS Descriptor ORB Source 1 Reference 2  (kNN) with n=73 matches in 0.189061 ms
+Detector HARRIS Descriptor ORB Source 2 Reference 3  (kNN) with n=67 matches in 0.153652 ms
+Detector HARRIS Descriptor ORB Source 3 Reference 4  (kNN) with n=79 matches in 0.168179 ms
+Detector HARRIS Descriptor ORB Source 4 Reference 5  (kNN) with n=89 matches in 0.239348 ms
+Detector HARRIS Descriptor ORB Source 5 Reference 6  (kNN) with n=126 matches in 0.3446 ms
+Detector HARRIS Descriptor ORB Source 6 Reference 7  (kNN) with n=112 matches in 0.396561 ms
+Detector HARRIS Descriptor ORB Source 7 Reference 8  (kNN) with n=66 matches in 0.236345 ms
+Detector HARRIS Descriptor ORB Source 8 Reference 9  (kNN) with n=144 matches in 0.364714 ms
+Detector HARRIS Descriptor ORB Source 9 Reference 10  (kNN) with n=132 matches in 0.4238 ms

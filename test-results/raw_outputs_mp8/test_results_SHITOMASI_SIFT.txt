@@ -1,0 +1,9 @@
+Detector SHITOMASI Descriptor SIFT Source 1 Reference 2  (kNN) with n=1044 matches in 5.07869 ms
+Detector SHITOMASI Descriptor SIFT Source 2 Reference 3  (kNN) with n=1050 matches in 5.30435 ms
+Detector SHITOMASI Descriptor SIFT Source 3 Reference 4  (kNN) with n=1068 matches in 5.28046 ms
+Detector SHITOMASI Descriptor SIFT Source 4 Reference 5  (kNN) with n=1045 matches in 5.39235 ms
+Detector SHITOMASI Descriptor SIFT Source 5 Reference 6  (kNN) with n=1019 matches in 4.91812 ms
+Detector SHITOMASI Descriptor SIFT Source 6 Reference 7  (kNN) with n=1032 matches in 4.97204 ms
+Detector SHITOMASI Descriptor SIFT Source 7 Reference 8  (kNN) with n=1033 matches in 5.32062 ms
+Detector SHITOMASI Descriptor SIFT Source 8 Reference 9  (kNN) with n=1078 matches in 5.44613 ms
+Detector SHITOMASI Descriptor SIFT Source 9 Reference 10  (kNN) with n=1053 matches in 5.36916 ms

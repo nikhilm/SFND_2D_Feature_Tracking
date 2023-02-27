@@ -1,0 +1,9 @@
+Detector BRISK Descriptor BRIEF Source 1 Reference 2  (kNN) with n=511 matches in 1.71608 ms
+Detector BRISK Descriptor BRIEF Source 2 Reference 3  (kNN) with n=503 matches in 1.852 ms
+Detector BRISK Descriptor BRIEF Source 3 Reference 4  (kNN) with n=499 matches in 2.50257 ms
+Detector BRISK Descriptor BRIEF Source 4 Reference 5  (kNN) with n=493 matches in 2.41031 ms
+Detector BRISK Descriptor BRIEF Source 5 Reference 6  (kNN) with n=483 matches in 2.20407 ms
+Detector BRISK Descriptor BRIEF Source 6 Reference 7  (kNN) with n=468 matches in 2.06585 ms
+Detector BRISK Descriptor BRIEF Source 7 Reference 8  (kNN) with n=477 matches in 2.20435 ms
+Detector BRISK Descriptor BRIEF Source 8 Reference 9  (kNN) with n=462 matches in 2.2003 ms
+Detector BRISK Descriptor BRIEF Source 9 Reference 10  (kNN) with n=451 matches in 2.26218 ms

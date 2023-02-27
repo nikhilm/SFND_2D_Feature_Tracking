@@ -1,0 +1,9 @@
+Detector ORB Descriptor FREAK Source 1 Reference 2  (kNN) with n=122 matches in 0.198979 ms
+Detector ORB Descriptor FREAK Source 2 Reference 3  (kNN) with n=113 matches in 0.281882 ms
+Detector ORB Descriptor FREAK Source 3 Reference 4  (kNN) with n=121 matches in 0.302276 ms
+Detector ORB Descriptor FREAK Source 4 Reference 5  (kNN) with n=127 matches in 0.218815 ms
+Detector ORB Descriptor FREAK Source 5 Reference 6  (kNN) with n=119 matches in 0.226428 ms
+Detector ORB Descriptor FREAK Source 6 Reference 7  (kNN) with n=129 matches in 0.330352 ms
+Detector ORB Descriptor FREAK Source 7 Reference 8  (kNN) with n=131 matches in 0.327209 ms
+Detector ORB Descriptor FREAK Source 8 Reference 9  (kNN) with n=128 matches in 0.238509 ms
+Detector ORB Descriptor FREAK Source 9 Reference 10  (kNN) with n=136 matches in 0.303532 ms

@@ -1,0 +1,9 @@
+Detector BRISK Descriptor ORB Source 1 Reference 2  (kNN) with n=452 matches in 2.66069 ms
+Detector BRISK Descriptor ORB Source 2 Reference 3  (kNN) with n=421 matches in 2.34333 ms
+Detector BRISK Descriptor ORB Source 3 Reference 4  (kNN) with n=435 matches in 2.41932 ms
+Detector BRISK Descriptor ORB Source 4 Reference 5  (kNN) with n=429 matches in 1.85297 ms
+Detector BRISK Descriptor ORB Source 5 Reference 6  (kNN) with n=420 matches in 1.86911 ms
+Detector BRISK Descriptor ORB Source 6 Reference 7  (kNN) with n=410 matches in 2.0859 ms
+Detector BRISK Descriptor ORB Source 7 Reference 8  (kNN) with n=414 matches in 2.11537 ms
+Detector BRISK Descriptor ORB Source 8 Reference 9  (kNN) with n=417 matches in 1.90333 ms
+Detector BRISK Descriptor ORB Source 9 Reference 10  (kNN) with n=407 matches in 2.25945 ms

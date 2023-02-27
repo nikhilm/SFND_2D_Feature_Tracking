@@ -1,0 +1,9 @@
+Detector HARRIS Descriptor SIFT Source 1 Reference 2  (kNN) with n=90 matches in 0.136192 ms
+Detector HARRIS Descriptor SIFT Source 2 Reference 3  (kNN) with n=77 matches in 0.111538 ms
+Detector HARRIS Descriptor SIFT Source 3 Reference 4  (kNN) with n=90 matches in 0.135842 ms
+Detector HARRIS Descriptor SIFT Source 4 Reference 5  (kNN) with n=95 matches in 0.15875 ms
+Detector HARRIS Descriptor SIFT Source 5 Reference 6  (kNN) with n=141 matches in 0.412136 ms
+Detector HARRIS Descriptor SIFT Source 6 Reference 7  (kNN) with n=120 matches in 0.32714 ms
+Detector HARRIS Descriptor SIFT Source 7 Reference 8  (kNN) with n=72 matches in 0.177399 ms
+Detector HARRIS Descriptor SIFT Source 8 Reference 9  (kNN) with n=154 matches in 0.250383 ms
+Detector HARRIS Descriptor SIFT Source 9 Reference 10  (kNN) with n=160 matches in 0.343413 ms

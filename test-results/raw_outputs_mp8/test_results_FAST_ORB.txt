@@ -1,0 +1,9 @@
+Detector FAST Descriptor ORB Source 1 Reference 2  (kNN) with n=405 matches in 0.954249 ms
+Detector FAST Descriptor ORB Source 2 Reference 3  (kNN) with n=399 matches in 0.839918 ms
+Detector FAST Descriptor ORB Source 3 Reference 4  (kNN) with n=426 matches in 0.797454 ms
+Detector FAST Descriptor ORB Source 4 Reference 5  (kNN) with n=418 matches in 0.844946 ms
+Detector FAST Descriptor ORB Source 5 Reference 6  (kNN) with n=415 matches in 0.744933 ms
+Detector FAST Descriptor ORB Source 6 Reference 7  (kNN) with n=410 matches in 0.836565 ms
+Detector FAST Descriptor ORB Source 7 Reference 8  (kNN) with n=406 matches in 0.701561 ms
+Detector FAST Descriptor ORB Source 8 Reference 9  (kNN) with n=405 matches in 0.73299 ms
+Detector FAST Descriptor ORB Source 9 Reference 10  (kNN) with n=408 matches in 0.929664 ms

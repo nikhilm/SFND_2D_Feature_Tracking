@@ -1,0 +1,9 @@
+Detector AKAZE Descriptor SIFT Source 1 Reference 2  (kNN) with n=1033 matches in 5.10851 ms
+Detector AKAZE Descriptor SIFT Source 2 Reference 3  (kNN) with n=1051 matches in 4.86015 ms
+Detector AKAZE Descriptor SIFT Source 3 Reference 4  (kNN) with n=1025 matches in 4.97183 ms
+Detector AKAZE Descriptor SIFT Source 4 Reference 5  (kNN) with n=1057 matches in 5.15168 ms
+Detector AKAZE Descriptor SIFT Source 5 Reference 6  (kNN) with n=1055 matches in 5.16369 ms
+Detector AKAZE Descriptor SIFT Source 6 Reference 7  (kNN) with n=1067 matches in 5.15936 ms
+Detector AKAZE Descriptor SIFT Source 7 Reference 8  (kNN) with n=1057 matches in 5.13184 ms
+Detector AKAZE Descriptor SIFT Source 8 Reference 9  (kNN) with n=1058 matches in 5.12185 ms
+Detector AKAZE Descriptor SIFT Source 9 Reference 10  (kNN) with n=1046 matches in 4.90911 ms

@@ -1,0 +1,9 @@
+Detector FAST Descriptor FREAK Source 1 Reference 2  (kNN) with n=320 matches in 0.955715 ms
+Detector FAST Descriptor FREAK Source 2 Reference 3  (kNN) with n=307 matches in 1.08164 ms
+Detector FAST Descriptor FREAK Source 3 Reference 4  (kNN) with n=314 matches in 1.21588 ms
+Detector FAST Descriptor FREAK Source 4 Reference 5  (kNN) with n=314 matches in 0.98456 ms
+Detector FAST Descriptor FREAK Source 5 Reference 6  (kNN) with n=324 matches in 1.40061 ms
+Detector FAST Descriptor FREAK Source 6 Reference 7  (kNN) with n=305 matches in 1.47855 ms
+Detector FAST Descriptor FREAK Source 7 Reference 8  (kNN) with n=315 matches in 1.48093 ms
+Detector FAST Descriptor FREAK Source 8 Reference 9  (kNN) with n=304 matches in 1.47869 ms
+Detector FAST Descriptor FREAK Source 9 Reference 10  (kNN) with n=310 matches in 1.43811 ms

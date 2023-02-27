@@ -64,7 +64,7 @@ int main(int argc, const char *argv[])
         dataBuffer.push_back(frame);
 
         //// EOF STUDENT ASSIGNMENT
-        cout << "#1 : LOAD IMAGE INTO BUFFER done" << endl;
+//        cout << "#1 : LOAD IMAGE INTO BUFFER done" << endl;
 
         /* DETECT IMAGE KEYPOINTS */
 
@@ -93,7 +93,7 @@ int main(int argc, const char *argv[])
         //// TASK MP.3 -> only keep keypoints on the preceding vehicle
 
         // only keep keypoints on the preceding vehicle
-        bool bFocusOnVehicle = true;
+        bool bFocusOnVehicle = false;
         cv::Rect vehicleRect(535, 180, 180, 150);
 
         if (bFocusOnVehicle)
@@ -101,7 +101,7 @@ int main(int argc, const char *argv[])
             cv::Mat mask = cv::Mat::zeros(imgGray.size(), CV_8U);
             mask(vehicleRect) = 1;
             cv::KeyPointsFilter::runByPixelsMask(keypoints, mask);
-            std::cerr << "After filtering to vehicle mask: " << detectorType << " " << keypoints.size() << "\n";
+//            std::cerr << "After filtering to vehicle mask: " << detectorType << " " << keypoints.size() << "\n";
         }
 
         //// EOF STUDENT ASSIGNMENT
@@ -122,7 +122,7 @@ int main(int argc, const char *argv[])
 
         // push keypoints and descriptor for current frame to end of data buffer
         (dataBuffer.end() - 1)->keypoints = keypoints;
-        cout << "#2 : DETECT KEYPOINTS done" << endl;
+//        cout << "#2 : DETECT KEYPOINTS done" << endl;
 
         /* EXTRACT KEYPOINT DESCRIPTORS */
 
@@ -138,12 +138,13 @@ int main(int argc, const char *argv[])
         // push descriptors for current frame to end of data buffer
         (dataBuffer.end() - 1)->descriptors = descriptors;
 
-        cout << "#3 : EXTRACT DESCRIPTORS done" << endl;
+//        cout << "#3 : EXTRACT DESCRIPTORS done" << endl;
 
         if (dataBuffer.size() > 1) // wait until at least two images have been processed
         {
 
             /* MATCH KEYPOINT DESCRIPTORS */
+            cout << "Detector " << detectorType << " Descriptor " << descriptorType << " Source " << imgIndex << " Reference " << imgIndex + 1 << " ";
 
             vector<cv::DMatch> matches;
             string matcherType = "MAT_BF";        // MAT_BF, MAT_FLANN
@@ -162,7 +163,7 @@ int main(int argc, const char *argv[])
             // store matches in current data frame
             (dataBuffer.end() - 1)->kptMatches = matches;
 
-            cout << "#4 : MATCH KEYPOINT DESCRIPTORS done" << endl;
+//            cout << "#4 : MATCH KEYPOINT DESCRIPTORS done" << endl;
 
             // visualize matches between current and previous image
             bVis = false; // TODO(nikhilm): Re-enable this once we are done visualizing keypoints.

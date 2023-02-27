@@ -1,0 +1,9 @@
+Detector AKAZE Descriptor BRIEF Source 1 Reference 2  (kNN) with n=949 matches in 4.21496 ms
+Detector AKAZE Descriptor BRIEF Source 2 Reference 3  (kNN) with n=968 matches in 4.14826 ms
+Detector AKAZE Descriptor BRIEF Source 3 Reference 4  (kNN) with n=985 matches in 4.10097 ms
+Detector AKAZE Descriptor BRIEF Source 4 Reference 5  (kNN) with n=988 matches in 4.27209 ms
+Detector AKAZE Descriptor BRIEF Source 5 Reference 6  (kNN) with n=979 matches in 4.18828 ms
+Detector AKAZE Descriptor BRIEF Source 6 Reference 7  (kNN) with n=1005 matches in 3.886 ms
+Detector AKAZE Descriptor BRIEF Source 7 Reference 8  (kNN) with n=1011 matches in 4.26056 ms
+Detector AKAZE Descriptor BRIEF Source 8 Reference 9  (kNN) with n=1003 matches in 4.21964 ms
+Detector AKAZE Descriptor BRIEF Source 9 Reference 10  (kNN) with n=984 matches in 4.51898 ms

@@ -1,0 +1,9 @@
+Detector SIFT Descriptor FREAK Source 1 Reference 2  (kNN) with n=538 matches in 7.22793 ms
+Detector SIFT Descriptor FREAK Source 2 Reference 3  (kNN) with n=522 matches in 6.91574 ms
+Detector SIFT Descriptor FREAK Source 3 Reference 4  (kNN) with n=538 matches in 6.7023 ms
+Detector SIFT Descriptor FREAK Source 4 Reference 5  (kNN) with n=518 matches in 6.32418 ms
+Detector SIFT Descriptor FREAK Source 5 Reference 6  (kNN) with n=517 matches in 6.38334 ms
+Detector SIFT Descriptor FREAK Source 6 Reference 7  (kNN) with n=509 matches in 6.76823 ms
+Detector SIFT Descriptor FREAK Source 7 Reference 8  (kNN) with n=544 matches in 6.75371 ms
+Detector SIFT Descriptor FREAK Source 8 Reference 9  (kNN) with n=521 matches in 7.34534 ms
+Detector SIFT Descriptor FREAK Source 9 Reference 10  (kNN) with n=533 matches in 7.3422 ms

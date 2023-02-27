@@ -1,0 +1,9 @@
+Detector SHITOMASI Descriptor ORB Source 1 Reference 2  (kNN) with n=897 matches in 3.55774 ms
+Detector SHITOMASI Descriptor ORB Source 2 Reference 3  (kNN) with n=885 matches in 3.67375 ms
+Detector SHITOMASI Descriptor ORB Source 3 Reference 4  (kNN) with n=909 matches in 3.70036 ms
+Detector SHITOMASI Descriptor ORB Source 4 Reference 5  (kNN) with n=908 matches in 5.25434 ms
+Detector SHITOMASI Descriptor ORB Source 5 Reference 6  (kNN) with n=890 matches in 5.47902 ms
+Detector SHITOMASI Descriptor ORB Source 6 Reference 7  (kNN) with n=870 matches in 5.65495 ms
+Detector SHITOMASI Descriptor ORB Source 7 Reference 8  (kNN) with n=873 matches in 6.08399 ms
+Detector SHITOMASI Descriptor ORB Source 8 Reference 9  (kNN) with n=905 matches in 6.18219 ms
+Detector SHITOMASI Descriptor ORB Source 9 Reference 10  (kNN) with n=882 matches in 5.68031 ms

@@ -1,0 +1,9 @@
+Detector HARRIS Descriptor BRIEF Source 1 Reference 2  (kNN) with n=82 matches in 0.192624 ms
+Detector HARRIS Descriptor BRIEF Source 2 Reference 3  (kNN) with n=77 matches in 0.175094 ms
+Detector HARRIS Descriptor BRIEF Source 3 Reference 4  (kNN) with n=85 matches in 0.178306 ms
+Detector HARRIS Descriptor BRIEF Source 4 Reference 5  (kNN) with n=93 matches in 0.213157 ms
+Detector HARRIS Descriptor BRIEF Source 5 Reference 6  (kNN) with n=134 matches in 0.315545 ms
+Detector HARRIS Descriptor BRIEF Source 6 Reference 7  (kNN) with n=133 matches in 0.406479 ms
+Detector HARRIS Descriptor BRIEF Source 7 Reference 8  (kNN) with n=67 matches in 0.237741 ms
+Detector HARRIS Descriptor BRIEF Source 8 Reference 9  (kNN) with n=150 matches in 0.353609 ms
+Detector HARRIS Descriptor BRIEF Source 9 Reference 10  (kNN) with n=143 matches in 0.493781 ms

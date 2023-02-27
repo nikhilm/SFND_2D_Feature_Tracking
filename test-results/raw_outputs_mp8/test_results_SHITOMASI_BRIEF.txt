@@ -1,0 +1,9 @@
+Detector SHITOMASI Descriptor BRIEF Source 1 Reference 2  (kNN) with n=1003 matches in 3.50054 ms
+Detector SHITOMASI Descriptor BRIEF Source 2 Reference 3  (kNN) with n=981 matches in 3.39557 ms
+Detector SHITOMASI Descriptor BRIEF Source 3 Reference 4  (kNN) with n=992 matches in 3.93922 ms
+Detector SHITOMASI Descriptor BRIEF Source 4 Reference 5  (kNN) with n=987 matches in 4.1125 ms
+Detector SHITOMASI Descriptor BRIEF Source 5 Reference 6  (kNN) with n=931 matches in 4.99146 ms
+Detector SHITOMASI Descriptor BRIEF Source 6 Reference 7  (kNN) with n=947 matches in 4.7035 ms
+Detector SHITOMASI Descriptor BRIEF Source 7 Reference 8  (kNN) with n=973 matches in 5.12555 ms
+Detector SHITOMASI Descriptor BRIEF Source 8 Reference 9  (kNN) with n=1003 matches in 5.55955 ms
+Detector SHITOMASI Descriptor BRIEF Source 9 Reference 10  (kNN) with n=971 matches in 6.18959 ms

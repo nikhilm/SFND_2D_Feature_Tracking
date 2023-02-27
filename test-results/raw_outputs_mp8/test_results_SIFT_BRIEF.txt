@@ -1,0 +1,9 @@
+Detector SIFT Descriptor BRIEF Source 1 Reference 2  (kNN) with n=702 matches in 6.81496 ms
+Detector SIFT Descriptor BRIEF Source 2 Reference 3  (kNN) with n=653 matches in 5.1493 ms
+Detector SIFT Descriptor BRIEF Source 3 Reference 4  (kNN) with n=666 matches in 6.36853 ms
+Detector SIFT Descriptor BRIEF Source 4 Reference 5  (kNN) with n=640 matches in 4.74366 ms
+Detector SIFT Descriptor BRIEF Source 5 Reference 6  (kNN) with n=648 matches in 6.22452 ms
+Detector SIFT Descriptor BRIEF Source 6 Reference 7  (kNN) with n=652 matches in 4.41184 ms
+Detector SIFT Descriptor BRIEF Source 7 Reference 8  (kNN) with n=671 matches in 5.95465 ms
+Detector SIFT Descriptor BRIEF Source 8 Reference 9  (kNN) with n=619 matches in 5.40541 ms
+Detector SIFT Descriptor BRIEF Source 9 Reference 10  (kNN) with n=673 matches in 4.90674 ms

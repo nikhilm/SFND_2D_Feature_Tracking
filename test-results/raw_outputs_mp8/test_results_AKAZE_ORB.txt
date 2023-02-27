@@ -1,0 +1,9 @@
+Detector AKAZE Descriptor ORB Source 1 Reference 2  (kNN) with n=868 matches in 4.14553 ms
+Detector AKAZE Descriptor ORB Source 2 Reference 3  (kNN) with n=899 matches in 4.0532 ms
+Detector AKAZE Descriptor ORB Source 3 Reference 4  (kNN) with n=872 matches in 4.18248 ms
+Detector AKAZE Descriptor ORB Source 4 Reference 5  (kNN) with n=862 matches in 4.27795 ms
+Detector AKAZE Descriptor ORB Source 5 Reference 6  (kNN) with n=878 matches in 4.0708 ms
+Detector AKAZE Descriptor ORB Source 6 Reference 7  (kNN) with n=913 matches in 4.28934 ms
+Detector AKAZE Descriptor ORB Source 7 Reference 8  (kNN) with n=905 matches in 4.17298 ms
+Detector AKAZE Descriptor ORB Source 8 Reference 9  (kNN) with n=902 matches in 4.24185 ms
+Detector AKAZE Descriptor ORB Source 9 Reference 10  (kNN) with n=875 matches in 4.26217 ms

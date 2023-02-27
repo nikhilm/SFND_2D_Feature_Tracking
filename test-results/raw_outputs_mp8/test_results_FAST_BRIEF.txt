@@ -1,0 +1,9 @@
+Detector FAST Descriptor BRIEF Source 1 Reference 2  (kNN) with n=437 matches in 0.868064 ms
+Detector FAST Descriptor BRIEF Source 2 Reference 3  (kNN) with n=438 matches in 0.863455 ms
+Detector FAST Descriptor BRIEF Source 3 Reference 4  (kNN) with n=447 matches in 0.813238 ms
+Detector FAST Descriptor BRIEF Source 4 Reference 5  (kNN) with n=446 matches in 0.864433 ms
+Detector FAST Descriptor BRIEF Source 5 Reference 6  (kNN) with n=438 matches in 0.813937 ms
+Detector FAST Descriptor BRIEF Source 6 Reference 7  (kNN) with n=429 matches in 0.717905 ms
+Detector FAST Descriptor BRIEF Source 7 Reference 8  (kNN) with n=440 matches in 0.78586 ms
+Detector FAST Descriptor BRIEF Source 8 Reference 9  (kNN) with n=424 matches in 0.867365 ms
+Detector FAST Descriptor BRIEF Source 9 Reference 10  (kNN) with n=437 matches in 0.896769 ms

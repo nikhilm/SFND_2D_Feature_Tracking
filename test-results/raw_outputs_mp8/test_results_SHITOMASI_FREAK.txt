@@ -1,0 +1,9 @@
+Detector SHITOMASI Descriptor FREAK Source 1 Reference 2  (kNN) with n=724 matches in 4.21782 ms
+Detector SHITOMASI Descriptor FREAK Source 2 Reference 3  (kNN) with n=719 matches in 6.38082 ms
+Detector SHITOMASI Descriptor FREAK Source 3 Reference 4  (kNN) with n=751 matches in 7.52692 ms
+Detector SHITOMASI Descriptor FREAK Source 4 Reference 5  (kNN) with n=713 matches in 6.90806 ms
+Detector SHITOMASI Descriptor FREAK Source 5 Reference 6  (kNN) with n=702 matches in 6.64769 ms
+Detector SHITOMASI Descriptor FREAK Source 6 Reference 7  (kNN) with n=714 matches in 6.61018 ms
+Detector SHITOMASI Descriptor FREAK Source 7 Reference 8  (kNN) with n=699 matches in 7.12945 ms
+Detector SHITOMASI Descriptor FREAK Source 8 Reference 9  (kNN) with n=720 matches in 5.81154 ms
+Detector SHITOMASI Descriptor FREAK Source 9 Reference 10  (kNN) with n=685 matches in 6.81328 ms
