@@ -1,0 +1,10 @@
+AKAZE detection with n= 1351 keypoints in 36.9616 ms ORB descriptor extraction in 3.68536 ms
+AKAZE detection with n= 1327 keypoints in 31.4751 ms ORB descriptor extraction in 3.69395 ms
+AKAZE detection with n= 1311 keypoints in 33.1783 ms ORB descriptor extraction in 3.61279 ms
+AKAZE detection with n= 1351 keypoints in 33.8503 ms ORB descriptor extraction in 3.68068 ms
+AKAZE detection with n= 1360 keypoints in 34.1629 ms ORB descriptor extraction in 3.64478 ms
+AKAZE detection with n= 1347 keypoints in 34.1131 ms ORB descriptor extraction in 3.91794 ms
+AKAZE detection with n= 1363 keypoints in 33.3824 ms ORB descriptor extraction in 3.673 ms
+AKAZE detection with n= 1331 keypoints in 33.4982 ms ORB descriptor extraction in 3.60483 ms
+AKAZE detection with n= 1358 keypoints in 32.1299 ms ORB descriptor extraction in 3.69842 ms
+AKAZE detection with n= 1331 keypoints in 32.7976 ms ORB descriptor extraction in 4.04338 ms

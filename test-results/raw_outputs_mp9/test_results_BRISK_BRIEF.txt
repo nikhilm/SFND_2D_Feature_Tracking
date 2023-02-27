@@ -1,0 +1,10 @@
+BRISK detection with n= 760 keypoints in 25.1313 ms BRIEF descriptor extraction in 1.71473 ms
+BRISK detection with n= 748 keypoints in 24.5145 ms BRIEF descriptor extraction in 1.32179 ms
+BRISK detection with n= 753 keypoints in 24.5426 ms BRIEF descriptor extraction in 1.3632 ms
+BRISK detection with n= 733 keypoints in 24.6872 ms BRIEF descriptor extraction in 1.29776 ms
+BRISK detection with n= 723 keypoints in 25.3261 ms BRIEF descriptor extraction in 1.31082 ms
+BRISK detection with n= 687 keypoints in 23.789 ms BRIEF descriptor extraction in 1.22568 ms
+BRISK detection with n= 694 keypoints in 24.0383 ms BRIEF descriptor extraction in 1.23986 ms
+BRISK detection with n= 717 keypoints in 24.0566 ms BRIEF descriptor extraction in 1.27688 ms
+BRISK detection with n= 702 keypoints in 24.0044 ms BRIEF descriptor extraction in 1.25921 ms
+BRISK detection with n= 718 keypoints in 24.0759 ms BRIEF descriptor extraction in 1.29657 ms

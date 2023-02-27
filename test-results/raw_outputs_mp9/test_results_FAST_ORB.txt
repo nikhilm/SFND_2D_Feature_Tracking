@@ -1,0 +1,10 @@
+FAST detection with n= 569 keypoints in 0.289152 ms ORB descriptor extraction in 1.53195 ms
+FAST detection with n= 561 keypoints in 0.273717 ms ORB descriptor extraction in 1.41705 ms
+FAST detection with n= 572 keypoints in 0.250808 ms ORB descriptor extraction in 1.41335 ms
+FAST detection with n= 559 keypoints in 0.269665 ms ORB descriptor extraction in 1.40748 ms
+FAST detection with n= 568 keypoints in 0.264009 ms ORB descriptor extraction in 1.33569 ms
+FAST detection with n= 566 keypoints in 0.28098 ms ORB descriptor extraction in 1.40281 ms
+FAST detection with n= 555 keypoints in 0.25898 ms ORB descriptor extraction in 1.68106 ms
+FAST detection with n= 535 keypoints in 0.262262 ms ORB descriptor extraction in 1.64055 ms
+FAST detection with n= 564 keypoints in 0.261564 ms ORB descriptor extraction in 1.57846 ms
+FAST detection with n= 568 keypoints in 0.264357 ms ORB descriptor extraction in 1.57343 ms

@@ -1,0 +1,10 @@
+SIFT detection with n= 1438 keypoints in 56.1999 ms FREAK descriptor extraction in 20.0157 ms
+SIFT detection with n= 1371 keypoints in 40.9927 ms FREAK descriptor extraction in 19.5876 ms
+SIFT detection with n= 1380 keypoints in 40.814 ms FREAK descriptor extraction in 19.6326 ms
+SIFT detection with n= 1335 keypoints in 40.8069 ms FREAK descriptor extraction in 19.5253 ms
+SIFT detection with n= 1305 keypoints in 40.8521 ms FREAK descriptor extraction in 19.3126 ms
+SIFT detection with n= 1369 keypoints in 41.0639 ms FREAK descriptor extraction in 19.7513 ms
+SIFT detection with n= 1396 keypoints in 41.4317 ms FREAK descriptor extraction in 20.2549 ms
+SIFT detection with n= 1382 keypoints in 41.1881 ms FREAK descriptor extraction in 19.4645 ms
+SIFT detection with n= 1463 keypoints in 40.6823 ms FREAK descriptor extraction in 19.8459 ms
+SIFT detection with n= 1422 keypoints in 40.0137 ms FREAK descriptor extraction in 19.5493 ms

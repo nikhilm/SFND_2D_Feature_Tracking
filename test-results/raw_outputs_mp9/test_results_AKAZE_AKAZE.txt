@@ -1,0 +1,10 @@
+AKAZE detection with n= 1351 keypoints in 37.4551 ms AKAZE descriptor extraction in 28.8673 ms
+AKAZE detection with n= 1327 keypoints in 33.1223 ms AKAZE descriptor extraction in 29.4043 ms
+AKAZE detection with n= 1311 keypoints in 32.9994 ms AKAZE descriptor extraction in 31.1976 ms
+AKAZE detection with n= 1351 keypoints in 34.6022 ms AKAZE descriptor extraction in 30.8355 ms
+AKAZE detection with n= 1360 keypoints in 33.2499 ms AKAZE descriptor extraction in 28.9607 ms
+AKAZE detection with n= 1347 keypoints in 34.8364 ms AKAZE descriptor extraction in 30.9566 ms
+AKAZE detection with n= 1363 keypoints in 33.0117 ms AKAZE descriptor extraction in 32.3435 ms
+AKAZE detection with n= 1331 keypoints in 35.1912 ms AKAZE descriptor extraction in 29.8187 ms
+AKAZE detection with n= 1358 keypoints in 35.3137 ms AKAZE descriptor extraction in 30.1703 ms
+AKAZE detection with n= 1331 keypoints in 35.2295 ms AKAZE descriptor extraction in 33.7083 ms

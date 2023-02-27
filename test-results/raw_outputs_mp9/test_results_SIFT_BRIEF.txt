@@ -1,0 +1,10 @@
+SIFT detection with n= 1438 keypoints in 54.0218 ms BRIEF descriptor extraction in 2.23031 ms
+SIFT detection with n= 1371 keypoints in 40.8414 ms BRIEF descriptor extraction in 2.15027 ms
+SIFT detection with n= 1380 keypoints in 40.4801 ms BRIEF descriptor extraction in 2.14964 ms
+SIFT detection with n= 1335 keypoints in 39.7392 ms BRIEF descriptor extraction in 2.08783 ms
+SIFT detection with n= 1305 keypoints in 40.7488 ms BRIEF descriptor extraction in 2.05661 ms
+SIFT detection with n= 1369 keypoints in 40.6356 ms BRIEF descriptor extraction in 2.62451 ms
+SIFT detection with n= 1396 keypoints in 41.9155 ms BRIEF descriptor extraction in 2.60551 ms
+SIFT detection with n= 1382 keypoints in 40.7594 ms BRIEF descriptor extraction in 2.62234 ms
+SIFT detection with n= 1463 keypoints in 40.3857 ms BRIEF descriptor extraction in 2.23178 ms
+SIFT detection with n= 1422 keypoints in 39.9226 ms BRIEF descriptor extraction in 2.1627 ms

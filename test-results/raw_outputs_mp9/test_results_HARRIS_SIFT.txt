@@ -1,0 +1,10 @@
+Harris detection with n=115 keypoints in 7.6364 ms SIFT descriptor extraction in 8.78938 ms
+Harris detection with n=98 keypoints in 4.43576 ms SIFT descriptor extraction in 9.48914 ms
+Harris detection with n=113 keypoints in 5.97622 ms SIFT descriptor extraction in 9.86595 ms
+Harris detection with n=121 keypoints in 5.81069 ms SIFT descriptor extraction in 10.0447 ms
+Harris detection with n=160 keypoints in 5.93662 ms SIFT descriptor extraction in 10.429 ms
+Harris detection with n=383 keypoints in 8.12161 ms SIFT descriptor extraction in 11.5872 ms
+Harris detection with n=85 keypoints in 5.93097 ms SIFT descriptor extraction in 10.0408 ms
+Harris detection with n=210 keypoints in 6.37231 ms SIFT descriptor extraction in 10.545 ms
+Harris detection with n=171 keypoints in 5.86978 ms SIFT descriptor extraction in 10.3593 ms
+Harris detection with n=281 keypoints in 6.67103 ms SIFT descriptor extraction in 10.5175 ms

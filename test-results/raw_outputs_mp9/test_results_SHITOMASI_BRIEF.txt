@@ -1,0 +1,10 @@
+Shi-Tomasi detection with n=1370 keypoints in 8.52062 ms BRIEF descriptor extraction in 3.4671 ms
+Shi-Tomasi detection with n=1301 keypoints in 7.30185 ms BRIEF descriptor extraction in 2.57562 ms
+Shi-Tomasi detection with n=1361 keypoints in 6.96262 ms BRIEF descriptor extraction in 2.63841 ms
+Shi-Tomasi detection with n=1358 keypoints in 6.75295 ms BRIEF descriptor extraction in 2.71181 ms
+Shi-Tomasi detection with n=1333 keypoints in 6.74723 ms BRIEF descriptor extraction in 2.56724 ms
+Shi-Tomasi detection with n=1284 keypoints in 6.60055 ms BRIEF descriptor extraction in 2.43404 ms
+Shi-Tomasi detection with n=1322 keypoints in 7.3367 ms BRIEF descriptor extraction in 2.52854 ms
+Shi-Tomasi detection with n=1366 keypoints in 6.79891 ms BRIEF descriptor extraction in 2.56842 ms
+Shi-Tomasi detection with n=1389 keypoints in 6.64539 ms BRIEF descriptor extraction in 2.6081 ms
+Shi-Tomasi detection with n=1339 keypoints in 6.80094 ms BRIEF descriptor extraction in 2.60942 ms

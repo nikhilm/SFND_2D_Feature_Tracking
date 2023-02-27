@@ -144,7 +144,7 @@ int main(int argc, const char *argv[])
         {
 
             /* MATCH KEYPOINT DESCRIPTORS */
-            cout << "Detector " << detectorType << " Descriptor " << descriptorType << " Source " << imgIndex << " Reference " << imgIndex + 1 << " ";
+//            cout << "Detector " << detectorType << " Descriptor " << descriptorType << " Source " << imgIndex << " Reference " << imgIndex + 1 << " ";
 
             vector<cv::DMatch> matches;
             string matcherType = "MAT_BF";        // MAT_BF, MAT_FLANN

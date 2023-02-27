@@ -1,0 +1,10 @@
+ORB detection with n= 500 keypoints in 4.891 ms BRIEF descriptor extraction in 1.3403 ms
+ORB detection with n= 500 keypoints in 4.41522 ms BRIEF descriptor extraction in 1.00358 ms
+ORB detection with n= 500 keypoints in 4.27023 ms BRIEF descriptor extraction in 0.940791 ms
+ORB detection with n= 500 keypoints in 3.96187 ms BRIEF descriptor extraction in 0.947426 ms
+ORB detection with n= 500 keypoints in 3.98233 ms BRIEF descriptor extraction in 0.948404 ms
+ORB detection with n= 500 keypoints in 4.06621 ms BRIEF descriptor extraction in 0.938976 ms
+ORB detection with n= 500 keypoints in 4.17748 ms BRIEF descriptor extraction in 0.939185 ms
+ORB detection with n= 500 keypoints in 4.10009 ms BRIEF descriptor extraction in 0.943027 ms
+ORB detection with n= 500 keypoints in 4.07257 ms BRIEF descriptor extraction in 0.947007 ms
+ORB detection with n= 500 keypoints in 4.05909 ms BRIEF descriptor extraction in 0.953852 ms

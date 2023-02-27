@@ -1,0 +1,10 @@
+Harris detection with n=115 keypoints in 7.00069 ms BRIEF descriptor extraction in 0.363605 ms
+Harris detection with n=98 keypoints in 6.11815 ms BRIEF descriptor extraction in 0.692986 ms
+Harris detection with n=113 keypoints in 6.17612 ms BRIEF descriptor extraction in 0.698783 ms
+Harris detection with n=121 keypoints in 5.86496 ms BRIEF descriptor extraction in 0.723927 ms
+Harris detection with n=160 keypoints in 6.06674 ms BRIEF descriptor extraction in 0.812768 ms
+Harris detection with n=383 keypoints in 7.41884 ms BRIEF descriptor extraction in 1.09626 ms
+Harris detection with n=85 keypoints in 6.08832 ms BRIEF descriptor extraction in 0.671545 ms
+Harris detection with n=210 keypoints in 6.28067 ms BRIEF descriptor extraction in 0.872694 ms
+Harris detection with n=171 keypoints in 5.61737 ms BRIEF descriptor extraction in 0.804038 ms
+Harris detection with n=281 keypoints in 6.59287 ms BRIEF descriptor extraction in 0.95448 ms

@@ -1,0 +1,10 @@
+FAST detection with n= 569 keypoints in 0.309965 ms SIFT descriptor extraction in 12.6395 ms
+FAST detection with n= 561 keypoints in 0.264218 ms SIFT descriptor extraction in 11.0934 ms
+FAST detection with n= 572 keypoints in 0.241588 ms SIFT descriptor extraction in 11.2582 ms
+FAST detection with n= 559 keypoints in 0.264916 ms SIFT descriptor extraction in 11.374 ms
+FAST detection with n= 568 keypoints in 0.263379 ms SIFT descriptor extraction in 11.2897 ms
+FAST detection with n= 566 keypoints in 0.260307 ms SIFT descriptor extraction in 11.7898 ms
+FAST detection with n= 555 keypoints in 0.261424 ms SIFT descriptor extraction in 11.2392 ms
+FAST detection with n= 535 keypoints in 0.258211 ms SIFT descriptor extraction in 11.2004 ms
+FAST detection with n= 564 keypoints in 0.260516 ms SIFT descriptor extraction in 11.0201 ms
+FAST detection with n= 568 keypoints in 0.265335 ms SIFT descriptor extraction in 11.8044 ms

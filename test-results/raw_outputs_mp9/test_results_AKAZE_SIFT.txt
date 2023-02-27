@@ -1,0 +1,10 @@
+AKAZE detection with n= 1351 keypoints in 39.7033 ms SIFT descriptor extraction in 14.4132 ms
+AKAZE detection with n= 1327 keypoints in 33.5038 ms SIFT descriptor extraction in 14.5881 ms
+AKAZE detection with n= 1311 keypoints in 36.6689 ms SIFT descriptor extraction in 14.918 ms
+AKAZE detection with n= 1351 keypoints in 33.8155 ms SIFT descriptor extraction in 14.3555 ms
+AKAZE detection with n= 1360 keypoints in 33.2337 ms SIFT descriptor extraction in 14.385 ms
+AKAZE detection with n= 1347 keypoints in 33.7084 ms SIFT descriptor extraction in 14.4321 ms
+AKAZE detection with n= 1363 keypoints in 33.0347 ms SIFT descriptor extraction in 14.554 ms
+AKAZE detection with n= 1331 keypoints in 34.7593 ms SIFT descriptor extraction in 14.3065 ms
+AKAZE detection with n= 1358 keypoints in 34.7761 ms SIFT descriptor extraction in 14.2581 ms
+AKAZE detection with n= 1331 keypoints in 34.4114 ms SIFT descriptor extraction in 14.0528 ms

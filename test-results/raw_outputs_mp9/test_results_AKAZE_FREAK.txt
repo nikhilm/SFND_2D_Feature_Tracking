@@ -1,0 +1,10 @@
+AKAZE detection with n= 1351 keypoints in 38.1213 ms FREAK descriptor extraction in 19.8626 ms
+AKAZE detection with n= 1327 keypoints in 33.2492 ms FREAK descriptor extraction in 19.8254 ms
+AKAZE detection with n= 1311 keypoints in 36.6215 ms FREAK descriptor extraction in 19.6764 ms
+AKAZE detection with n= 1351 keypoints in 32.9763 ms FREAK descriptor extraction in 19.8867 ms
+AKAZE detection with n= 1360 keypoints in 32.7346 ms FREAK descriptor extraction in 19.8221 ms
+AKAZE detection with n= 1347 keypoints in 34.2044 ms FREAK descriptor extraction in 21.2948 ms
+AKAZE detection with n= 1363 keypoints in 31.9256 ms FREAK descriptor extraction in 20.1757 ms
+AKAZE detection with n= 1331 keypoints in 32.6464 ms FREAK descriptor extraction in 19.9185 ms
+AKAZE detection with n= 1358 keypoints in 28.3908 ms FREAK descriptor extraction in 19.9151 ms
+AKAZE detection with n= 1331 keypoints in 30.6461 ms FREAK descriptor extraction in 19.8207 ms

@@ -1,0 +1,10 @@
+FAST detection with n= 569 keypoints in 0.284822 ms FREAK descriptor extraction in 19.5439 ms
+FAST detection with n= 561 keypoints in 0.265894 ms FREAK descriptor extraction in 19.0143 ms
+FAST detection with n= 572 keypoints in 0.262541 ms FREAK descriptor extraction in 17.6994 ms
+FAST detection with n= 559 keypoints in 0.259469 ms FREAK descriptor extraction in 17.3656 ms
+FAST detection with n= 568 keypoints in 0.262821 ms FREAK descriptor extraction in 18.2546 ms
+FAST detection with n= 566 keypoints in 0.198495 ms FREAK descriptor extraction in 19.1321 ms
+FAST detection with n= 555 keypoints in 0.264847 ms FREAK descriptor extraction in 17.2365 ms
+FAST detection with n= 535 keypoints in 0.259818 ms FREAK descriptor extraction in 17.0461 ms
+FAST detection with n= 564 keypoints in 0.264847 ms FREAK descriptor extraction in 17.1403 ms
+FAST detection with n= 568 keypoints in 0.286288 ms FREAK descriptor extraction in 17.1296 ms

@@ -1,0 +1,10 @@
+Harris detection with n=115 keypoints in 7.11656 ms FREAK descriptor extraction in 17.4256 ms
+Harris detection with n=98 keypoints in 6.81951 ms FREAK descriptor extraction in 16.4565 ms
+Harris detection with n=113 keypoints in 4.34475 ms FREAK descriptor extraction in 15.7074 ms
+Harris detection with n=121 keypoints in 4.22078 ms FREAK descriptor extraction in 17.4016 ms
+Harris detection with n=160 keypoints in 4.17266 ms FREAK descriptor extraction in 15.914 ms
+Harris detection with n=383 keypoints in 6.01897 ms FREAK descriptor extraction in 17.3252 ms
+Harris detection with n=85 keypoints in 4.14095 ms FREAK descriptor extraction in 15.6026 ms
+Harris detection with n=210 keypoints in 4.28566 ms FREAK descriptor extraction in 16.0139 ms
+Harris detection with n=171 keypoints in 4.12712 ms FREAK descriptor extraction in 15.8405 ms
+Harris detection with n=281 keypoints in 4.89295 ms FREAK descriptor extraction in 16.9447 ms

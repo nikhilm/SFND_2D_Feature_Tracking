@@ -85,4 +85,5 @@ This was really easy by using OpenCV's keypoint filtering abilities, masking the
 
 ## MP.9
 
-- [ ] **Remember to run in Release mode for this!**
+- [x] **Remember to run in Release mode for this!**
+- [ ] We have the data. Do the agrinding and add the time for detection and descriptor extraction per image. Then take median and p90.

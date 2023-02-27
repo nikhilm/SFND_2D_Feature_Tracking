@@ -1,0 +1,10 @@
+ORB detection with n= 500 keypoints in 4.83331 ms FREAK descriptor extraction in 17.8949 ms
+ORB detection with n= 500 keypoints in 4.42703 ms FREAK descriptor extraction in 17.3842 ms
+ORB detection with n= 500 keypoints in 3.99435 ms FREAK descriptor extraction in 16.3094 ms
+ORB detection with n= 500 keypoints in 3.99756 ms FREAK descriptor extraction in 16.0625 ms
+ORB detection with n= 500 keypoints in 4.08179 ms FREAK descriptor extraction in 15.9121 ms
+ORB detection with n= 500 keypoints in 3.97074 ms FREAK descriptor extraction in 16.0046 ms
+ORB detection with n= 500 keypoints in 3.98625 ms FREAK descriptor extraction in 16.0126 ms
+ORB detection with n= 500 keypoints in 4.00901 ms FREAK descriptor extraction in 16.0482 ms
+ORB detection with n= 500 keypoints in 4.05008 ms FREAK descriptor extraction in 16.0392 ms
+ORB detection with n= 500 keypoints in 4.09087 ms FREAK descriptor extraction in 16.1072 ms
