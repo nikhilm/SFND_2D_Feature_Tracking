@@ -85,6 +85,14 @@ This was really easy by using OpenCV's keypoint filtering abilities, masking the
 
 ## MP.9
 
-- [x] **Remember to run in Release mode for this!**
-- [ ] We have the data. Do the agrinding and add the time for detection and descriptor extraction per image. Then take median and p90.
-- [ ] We've to enter into a spreadsheet.
+Spreadsheet https://docs.google.com/spreadsheets/d/1E16v0HlMi7SVAiLAv7BoYoxCEssw3J2XNfaT_DTUSdo/edit#gid=557925971
+
+Top 3:
+FAST + BRIEF
+FAST + ORB
+Maybe SIFT + SIFT
+
+FAST + BRIEF is the fastest combination. In our goal of tracking only the preceding vehicle, rotation invariance is not as critical to the goal as most of the time the car in front of us will maintain its orientation across frames. So, to minimize latency, I would choose this combo.
+FAST + ORB is the 2nd faster. In addition in case of turns or due to bumps in the road, the preceding vehicle can experience some rotation, in which case ORB extraction provides rotation invariance. Since it uses pyramids for some multi-scale capability, this will also accomodate for slight changes in distance between the two vehicles, which is another point in favor of FAST+ORB.
+Note that ORB is a combination of FAST for detection and BRIEF for extraction, with improvements to each, so in my opinion, even though FAST + BRIEF is third fastest, it doesn't make sense to consider it a top 3, as ORB theoretically has better matching.
+Some cursory literature reading suggests that SIFT continues to be more robust to brightness and other changes compared to the other algorithms. So even though it takes the most time, if we are OK with only processing 10 images every second (since SIFT was taking 77ms on my machine -> 1000ms/(77ms rounded to 100) = 10), then that robustness may be worth it.
